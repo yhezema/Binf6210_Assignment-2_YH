@@ -6,3 +6,10 @@ In this study, we focus on two genetic markers to construct phylogenetic trees f
 
 
 
+<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/27836dcc-535c-4e1c-8702-87588869c23b" />
+
+Figure 1: Box plot showing COI (cytochrome oxidase I) and CAD (carbamoyl-phosphate synthetase) length (in base pairs (bp)) before and after filtering the sequences.
+
+<img width="1352" height="779" alt="image" src="https://github.com/user-attachments/assets/e943a09a-ebbc-4053-b632-edc4ee03850a" />
+
+Figure 2: Binary phylogenetic tree of COI (cytochrome oxidase I) and CAD (carbamoyl-phosphate synthetase) showing the evolution of the two genes among six sub-families of Cecidomyiidae family
